@@ -4,7 +4,7 @@
 <div align=center>
    <img height=50 width=100% src="static/divider.gif">
 </div>
-<h1 align="center"> Welcome to my github!
+<h1 align="center"> I`m lDevl, Welcome to my github!
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate+(Laude)" />
 </h1>
 <div align=center>
@@ -22,7 +22,7 @@
    <img height=50 width=100% src="static/divider.gif">
 </div>
 
-<h3 align="left">Languages and Tools <span style="font-style: italic;">(Still Learning)</span>:</h3>
+<h3 align="left">Tech Stacks<span style="font-style: italic;">(Continuous Learning)</span>:</h3>
 
 <p align="left">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
