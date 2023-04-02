@@ -5,16 +5,16 @@
    <img height=50 width=100% src="static/divider.gif">
 </div>
 <h1 align="center"> Welcome to my github!
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant;WordPress+Developer;IT+Graduate+(Laude)" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate+(Laude)" />
 </h1>
 <div align=center>
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web%20Applications;AI+%26+Machine%20Learning;Cloud+Computing;2D%20Game%20Development" />
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Applications;React+%26+Redux;WordPress;AI;Cloud+Computing;2D%20Game%20Development;Data+Analytics" />
       <br>
       💬 Talk to me all about:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas" />
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas;Data+Analytics;Data+Analytics;Data+Analytics" />
    </h4>
 </div>
 
@@ -46,7 +46,7 @@
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
      <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>&nbsp;&nbsp;
-     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
+     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
      <img alt="MS Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
    
 
