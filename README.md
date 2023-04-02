@@ -11,7 +11,7 @@
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Development;AI+%26+ML;Cloud+Computing" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web%20Applications;AI+%26+Machine%20Learning;Cloud+Computing;2D%20Game%20Development" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Social+Media+Bots;Web+Apps;AI+Projects;Cloud+Deployment" /></a>
@@ -31,6 +31,7 @@
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Tailwind-2783AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
@@ -43,6 +44,7 @@
    <br>
      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
      <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
+     <img alt="Unity" src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white"/> &nbsp;&nbsp;
      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
