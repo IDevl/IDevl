@@ -11,13 +11,10 @@
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web%20Applications;AI+%26+Machine%20Learning;Cloud+Computing;2D%20Game%20Development" /></a>
-      <br>
-      👯 I’m looking to collaborate on:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Social+Media+Bots;Web+Apps;AI+Projects;Cloud+Deployment" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web%20Applications;AI+%26+Machine%20Learning;Cloud+Computing;2D%20Game%20Development" />
       <br>
       💬 Talk to me all about:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas" />
    </h4>
 </div>
 
