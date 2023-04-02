@@ -14,7 +14,7 @@
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Applications;React+%26+Redux;WordPress;AI;Cloud+Computing;2D%20Game%20Development;Data+Analytics" />
       <br>
       💬 Talk to me all about:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas;Data+Analytics;Data+Analytics;Data+Analytics" />
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas" />
    </h4>
 </div>
 
