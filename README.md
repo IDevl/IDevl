@@ -5,7 +5,7 @@
    <img height=50 width=100% src="static/divider.gif">
 </div>
 <h1 align="center"> I`m Jefferson aka. IDevl. Welcome to my Github!
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate+(Laude)" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate" />
 </h1>
 <div align=center>
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
