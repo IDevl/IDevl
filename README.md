@@ -2,37 +2,27 @@
 
 
 <div align=center>
-   <a href="https://github.com/gateremark">
    <img height=50 width=100% src="static/divider.gif">
-   </a>
 </div>
 <h1 align="center"> Welcome to my github!
-   <a href="https://github.com/IDevl">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Machine+Learning+Engineer;Cloud+Computing+Enthusiast;Technical+Blogger;Information+Tech.+Undergrad" />
-   </a>
 </h1>
 <div align=center>
-   <a href="https://dizi.onrender.com/" target="_blank">
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
-      <a href="https://dizi.onrender.com/">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Development;AI+%26+ML;Cloud+Computing" /></a>
       <br>
       👯 I’m looking to collaborate on:
-      <a href="https://dizi.onrender.com/">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Social+Media+Bots;Web+Apps;AI+Projects;Cloud+Deployment" /></a>
       <br>
       💬 Talk to me all about:
-      <a href="https://dizi.onrender.com/">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas" /></a>
    </h4>
 </div>
 
 <div align=center>
-   <a href="https://dizi.onrender.com/">
    <img height=50 width=100% src="static/divider.gif">
-   </a>
 </div>
 
 <h3 align="left">Languages and Tools <span style="font-style: italic;">(Still Learning)</span>:</h3>
@@ -47,9 +37,9 @@
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
    <br>
-          <a href="https://dizi.onrender.com/">
-              <img height=20 width=10% src="static/divider.gif">
-          </a>
+
+   <img height=20 width=10% src="static/divider.gif">
+
    <br>
      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
      <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
