@@ -10,10 +10,10 @@
 <div align=center>
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
-      🌱 I’m mostly interested in:
+      🌱 An enthusiast in:
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Applications;React+%26+Redux;WordPress;AI;Cloud+Computing;2D%20Game%20Development;Data+Analytics" />
       <br>
-      💬 Talk to me all about:
+      💬 I want to here more:
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas" />
    </h4>
 </div>
