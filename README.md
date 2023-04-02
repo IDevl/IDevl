@@ -22,7 +22,7 @@
    <img height=50 width=100% src="static/divider.gif">
 </div>
 
-<h3 align="left">Tech Stacks<span style="font-style: italic;">(Continuous Learning)</span>:</h3>
+<h3 align="left">Tech Stacks<span style="font-style: italic;"> (Continuous Learning)</span>:</h3>
 
 <p align="left">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
