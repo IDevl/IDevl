@@ -34,7 +34,7 @@
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/MSSQL-00000F?style=for-the-badge&logo=mssql&logoColor=white"/>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
    <br>
 
    <img height=20 width=10% src="static/divider.gif">
