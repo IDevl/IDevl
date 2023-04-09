@@ -4,7 +4,7 @@
 <div align=center>
    <img height=50 width=100% src="static/divider.gif">
 </div>
-<h1 align="center"> I`m Jefferson and Welcome to my Git!
+<h1 align="center"> I`m Jefferson
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate" />
 </h1>
 <div align=center>
