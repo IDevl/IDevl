@@ -40,7 +40,7 @@
    <img height=20 width=10% src="static/divider.gif">
 
    <br>
-     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> &nbsp;&nbsp;
