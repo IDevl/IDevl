@@ -57,7 +57,7 @@
 </div>
 
 <p>
-  <a href="https://dizi.onrender.com/" target="_blank">
+  <a href="https://dizi-portfolio.netlify.com/" target="_blank">
 <img width=320 height=35 src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Fdizi.onrender.com/" />
 </a>
    
